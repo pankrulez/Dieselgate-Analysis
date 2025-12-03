@@ -63,9 +63,8 @@ We verified that BMW and Mercedes were strong predictors of VW before the scanda
 
 The model predicts VW’s stock price for the post-scandal period using BMW and Mercedes.
 
-\[
-\textbf{Causal Impact} = \text{Predicted Price (Counterfactual)} - \text{Actual Price}
-\]
+![Causal Impact Equation](https://latex.codecogs.com/svg.image?\textbf{Causal%20Impact}=\text{Predicted%20Price}-\text{Actual%20Price})
+
 
 ---
 
