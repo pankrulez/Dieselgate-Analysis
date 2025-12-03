@@ -133,4 +133,4 @@ jupyter notebook dieselgate_analysis.ipynb
 
 ## ✍️ Author
 
-Pankaj Kapri
+Pankaj
