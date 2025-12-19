@@ -114,7 +114,7 @@ pip install pandas numpy matplotlib seaborn yfinance scikit-learn
 ```
 ### 3. Run the notebook
 ```bash
-jupyter notebook dieselgate_analysis.ipynb
+jupyter notebook exploration.ipynb
 ```
 
 ---
